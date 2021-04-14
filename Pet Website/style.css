@@ -11,7 +11,7 @@ body {
     margin: 0px -2px 0px -2px;
   }
   .navbar-items {
-    background-color: #262626;
+    background-color: #afa9a9e8;
     display: block;
     position: relative;
     height: 3em;
@@ -39,6 +39,14 @@ body {
     font-family: "Droid Sans";
     display: inline-block;
     padding: 0 0.5em 0 0.5em;
+  }
+  .pet{
+
+    height: 400px;
+  }
+  .pet{
+
+    height: 200px;
   }
   
   
