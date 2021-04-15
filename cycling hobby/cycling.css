@@ -1,5 +1,5 @@
 body {
-    background-color: teal;
+    background-color: rgb(169, 206, 206);
     max-width: 75em;
     margin: 10 auto;
   }
@@ -11,7 +11,7 @@ body {
     margin: 0px -2px 0px -2px;
   }
   .navbar-items {
-    background-color: #afa9a9e8;
+    background-color: tomato;
     display: block;
     position: relative;
     height: 3em;
@@ -24,7 +24,7 @@ body {
     padding: 0;
     color: white;
   }
-  .petnav {
+  .bikenav {
     position: absolute;
     display: inline-block;
     right: 0.5em;
