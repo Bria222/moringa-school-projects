@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(169, 206, 206);
+    background-color: rgb(218, 238, 238);
     max-width: 75em;
     margin: 10 auto;
   }
   .navbar {
-    max-width: 75em;
+    
     position: fixed;
     width: 100%;
     padding: 0;
     margin: 0px -2px 0px -2px;
   }
   .navbar-items {
-    background-color: tomato;
+    background-color: floralwhite;
     display: block;
     position: relative;
     height: 3em;
@@ -54,4 +54,9 @@ body {
   
   .picha{
       width: 1200px;
+  }
+  .ptext{
+     color: rgb(41, 40, 38);
+     font-size: larger;
+     font-weight: bolder;
   }
